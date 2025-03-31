@@ -1,2 +1,2 @@
 # Chat-APP
-conectate contu familia y amigos 
+conectate con tu familia y amigos 
